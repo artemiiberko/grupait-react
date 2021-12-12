@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grupait-react/static/css/main.77d68d30.chunk.css",
+    "main.js": "/grupait-react/static/js/main.4406316b.chunk.js",
+    "main.js.map": "/grupait-react/static/js/main.4406316b.chunk.js.map",
+    "runtime-main.js": "/grupait-react/static/js/runtime-main.cd6bdbbd.js",
+    "runtime-main.js.map": "/grupait-react/static/js/runtime-main.cd6bdbbd.js.map",
+    "static/js/2.1827e1a1.chunk.js": "/grupait-react/static/js/2.1827e1a1.chunk.js",
+    "static/js/2.1827e1a1.chunk.js.map": "/grupait-react/static/js/2.1827e1a1.chunk.js.map",
+    "index.html": "/grupait-react/index.html",
+    "static/css/main.77d68d30.chunk.css.map": "/grupait-react/static/css/main.77d68d30.chunk.css.map",
+    "static/js/2.1827e1a1.chunk.js.LICENSE.txt": "/grupait-react/static/js/2.1827e1a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd6bdbbd.js",
+    "static/js/2.1827e1a1.chunk.js",
+    "static/css/main.77d68d30.chunk.css",
+    "static/js/main.4406316b.chunk.js"
+  ]
+}
